@@ -1,0 +1,37 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\Github\\Learning_CSharp\\SchoolLinks_Client\\SchoolLinks_Web_Application\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{E0FAEFC0-6234-4309-95F4-8D90ED171C79}|SchoolLinks_Web_Application.csproj|d:\\github\\learning_csharp\\schoollinks_client\\schoollinks_web_application\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E0FAEFC0-6234-4309-95F4-8D90ED171C79}|SchoolLinks_Web_Application.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\Github\\Learning_CSharp\\SchoolLinks_Client\\SchoolLinks_Web_Application\\Program.cs",
+              "RelativeDocumentMoniker": "Program.cs",
+              "ToolTip": "D:\\Github\\Learning_CSharp\\SchoolLinks_Client\\SchoolLinks_Web_Application\\Program.cs",
+              "RelativeToolTip": "Program.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAcAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-27T17:26:03.793Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
