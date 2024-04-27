@@ -1,10 +1,22 @@
 {
   "Version": 1,
-  "WorkspaceRootPath": "D:\\Github\\Learning_CSharp\\SchoolLinks_Client\\SchoolLinks_Web_Application\\",
+  "WorkspaceRootPath": "D:\\Github\\Learning_CSharp\\SchoolLinks_Web_Application\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{E0FAEFC0-6234-4309-95F4-8D90ED171C79}|SchoolLinks_Web_Application.csproj|d:\\github\\learning_csharp\\schoollinks_client\\schoollinks_web_application\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{E0FAEFC0-6234-4309-95F4-8D90ED171C79}|SchoolLinks_Web_Application.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{E0FAEFC0-6234-4309-95F4-8D90ED171C79}|SchoolLinks_Web_Application.csproj|d:\\github\\learning_csharp\\schoollinks_web_application\\components\\app.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{E0FAEFC0-6234-4309-95F4-8D90ED171C79}|SchoolLinks_Web_Application.csproj|solutionrelative:components\\app.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E0FAEFC0-6234-4309-95F4-8D90ED171C79}|SchoolLinks_Web_Application.csproj|D:\\Github\\Learning_CSharp\\SchoolLinks_Web_Application\\.gitignore||{3B902123-F8A7-4915-9F01-361F908088D0}",
+      "RelativeMoniker": "D:0:0:{E0FAEFC0-6234-4309-95F4-8D90ED171C79}|SchoolLinks_Web_Application.csproj|solutionrelative:.gitignore||{3B902123-F8A7-4915-9F01-361F908088D0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E0FAEFC0-6234-4309-95F4-8D90ED171C79}|SchoolLinks_Web_Application.csproj|D:\\Github\\Learning_CSharp\\SchoolLinks_Web_Application\\Components\\Routes.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{E0FAEFC0-6234-4309-95F4-8D90ED171C79}|SchoolLinks_Web_Application.csproj|solutionrelative:Components\\Routes.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E0FAEFC0-6234-4309-95F4-8D90ED171C79}|SchoolLinks_Web_Application.csproj|D:\\Github\\Learning_CSharp\\SchoolLinks_Web_Application\\Program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E0FAEFC0-6234-4309-95F4-8D90ED171C79}|SchoolLinks_Web_Application.csproj|solutionrelative:Program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -14,20 +26,60 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 0,
+          "SelectedChildIndex": 3,
           "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{1c4feeaa-4718-4aa9-859d-94ce25d182ba}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": ".gitignore",
+              "DocumentMoniker": "D:\\Github\\Learning_CSharp\\SchoolLinks_Web_Application\\.gitignore",
+              "RelativeDocumentMoniker": ".gitignore",
+              "ToolTip": "D:\\Github\\Learning_CSharp\\SchoolLinks_Web_Application\\.gitignore",
+              "RelativeToolTip": ".gitignore",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA0AAAAHAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001001|",
+              "WhenOpened": "2024-04-27T18:00:43.183Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Routes.razor",
+              "DocumentMoniker": "D:\\Github\\Learning_CSharp\\SchoolLinks_Web_Application\\Components\\Routes.razor",
+              "RelativeDocumentMoniker": "Components\\Routes.razor",
+              "ToolTip": "D:\\Github\\Learning_CSharp\\SchoolLinks_Web_Application\\Components\\Routes.razor",
+              "RelativeToolTip": "Components\\Routes.razor",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-04-27T17:59:46.793Z"
+            },
             {
               "$type": "Document",
               "DocumentIndex": 0,
+              "Title": "App.razor",
+              "DocumentMoniker": "D:\\Github\\Learning_CSharp\\SchoolLinks_Web_Application\\Components\\App.razor",
+              "RelativeDocumentMoniker": "Components\\App.razor",
+              "ToolTip": "D:\\Github\\Learning_CSharp\\SchoolLinks_Web_Application\\Components\\App.razor",
+              "RelativeToolTip": "Components\\App.razor",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABQAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-04-27T17:59:41.537Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
               "Title": "Program.cs",
-              "DocumentMoniker": "D:\\Github\\Learning_CSharp\\SchoolLinks_Client\\SchoolLinks_Web_Application\\Program.cs",
+              "DocumentMoniker": "D:\\Github\\Learning_CSharp\\SchoolLinks_Web_Application\\Program.cs",
               "RelativeDocumentMoniker": "Program.cs",
-              "ToolTip": "D:\\Github\\Learning_CSharp\\SchoolLinks_Client\\SchoolLinks_Web_Application\\Program.cs",
+              "ToolTip": "D:\\Github\\Learning_CSharp\\SchoolLinks_Web_Application\\Program.cs",
               "RelativeToolTip": "Program.cs",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAAAcAAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-04-27T17:26:03.793Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-04-27T17:26:03.793Z"
             }
           ]
         }
